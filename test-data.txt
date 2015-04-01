@@ -1,0 +1,200 @@
+# source:topology|BGP|20140601|ripe|rrc00
+# source:topology|BGP|20140602|ripe|rrc00
+# source:topology|BGP|20140603|ripe|rrc00
+# source:topology|BGP|20140604|ripe|rrc00
+# source:topology|BGP|20140605|ripe|rrc00
+# source:topology|BGP|20140601|ripe|rrc01
+# source:topology|BGP|20140602|ripe|rrc01
+# source:topology|BGP|20140603|ripe|rrc01
+# source:topology|BGP|20140604|ripe|rrc01
+# source:topology|BGP|20140605|ripe|rrc01
+# source:topology|BGP|20140601|ripe|rrc03
+# source:topology|BGP|20140602|ripe|rrc03
+# source:topology|BGP|20140603|ripe|rrc03
+# source:topology|BGP|20140604|ripe|rrc03
+# source:topology|BGP|20140605|ripe|rrc03
+# source:topology|BGP|20140601|ripe|rrc04
+# source:topology|BGP|20140602|ripe|rrc04
+# source:topology|BGP|20140603|ripe|rrc04
+# source:topology|BGP|20140604|ripe|rrc04
+# source:topology|BGP|20140605|ripe|rrc04
+# source:topology|BGP|20140601|ripe|rrc05
+# source:topology|BGP|20140602|ripe|rrc05
+# source:topology|BGP|20140603|ripe|rrc05
+# source:topology|BGP|20140604|ripe|rrc05
+# source:topology|BGP|20140605|ripe|rrc05
+# source:topology|BGP|20140601|ripe|rrc06
+# source:topology|BGP|20140602|ripe|rrc06
+# source:topology|BGP|20140603|ripe|rrc06
+# source:topology|BGP|20140604|ripe|rrc06
+# source:topology|BGP|20140605|ripe|rrc06
+# source:topology|BGP|20140601|ripe|rrc07
+# source:topology|BGP|20140602|ripe|rrc07
+# source:topology|BGP|20140603|ripe|rrc07
+# source:topology|BGP|20140604|ripe|rrc07
+# source:topology|BGP|20140605|ripe|rrc07
+# source:topology|BGP|20140601|ripe|rrc10
+# source:topology|BGP|20140602|ripe|rrc10
+# source:topology|BGP|20140603|ripe|rrc10
+# source:topology|BGP|20140604|ripe|rrc10
+# source:topology|BGP|20140605|ripe|rrc10
+# source:topology|BGP|20140601|ripe|rrc11
+# source:topology|BGP|20140602|ripe|rrc11
+# source:topology|BGP|20140603|ripe|rrc11
+# source:topology|BGP|20140604|ripe|rrc11
+# source:topology|BGP|20140605|ripe|rrc11
+# source:topology|BGP|20140601|ripe|rrc12
+# source:topology|BGP|20140602|ripe|rrc12
+# source:topology|BGP|20140603|ripe|rrc12
+# source:topology|BGP|20140604|ripe|rrc12
+# source:topology|BGP|20140605|ripe|rrc12
+# source:topology|BGP|20140601|ripe|rrc13
+# source:topology|BGP|20140602|ripe|rrc13
+# source:topology|BGP|20140603|ripe|rrc13
+# source:topology|BGP|20140604|ripe|rrc13
+# source:topology|BGP|20140605|ripe|rrc13
+# source:topology|BGP|20140601|ripe|rrc14
+# source:topology|BGP|20140602|ripe|rrc14
+# source:topology|BGP|20140603|ripe|rrc14
+# source:topology|BGP|20140604|ripe|rrc14
+# source:topology|BGP|20140605|ripe|rrc14
+# source:topology|BGP|20140601|ripe|rrc15
+# source:topology|BGP|20140602|ripe|rrc15
+# source:topology|BGP|20140603|ripe|rrc15
+# source:topology|BGP|20140604|ripe|rrc15
+# source:topology|BGP|20140605|ripe|rrc15
+# source:topology|BGP|20140601|routeviews|eqix
+# source:topology|BGP|20140602|routeviews|eqix
+# source:topology|BGP|20140603|routeviews|eqix
+# source:topology|BGP|20140604|routeviews|eqix
+# source:topology|BGP|20140605|routeviews|eqix
+# source:topology|BGP|20140601|routeviews|isc
+# source:topology|BGP|20140602|routeviews|isc
+# source:topology|BGP|20140603|routeviews|isc
+# source:topology|BGP|20140604|routeviews|isc
+# source:topology|BGP|20140605|routeviews|isc
+# source:topology|BGP|20140601|routeviews|jinx
+# source:topology|BGP|20140602|routeviews|jinx
+# source:topology|BGP|20140603|routeviews|jinx
+# source:topology|BGP|20140604|routeviews|jinx
+# source:topology|BGP|20140605|routeviews|jinx
+# source:topology|BGP|20140601|routeviews|kixp
+# source:topology|BGP|20140602|routeviews|kixp
+# source:topology|BGP|20140603|routeviews|kixp
+# source:topology|BGP|20140604|routeviews|kixp
+# source:topology|BGP|20140605|routeviews|kixp
+# source:topology|BGP|20140601|routeviews|linx
+# source:topology|BGP|20140602|routeviews|linx
+# source:topology|BGP|20140603|routeviews|linx
+# source:topology|BGP|20140604|routeviews|linx
+# source:topology|BGP|20140605|routeviews|linx
+# source:topology|BGP|20140601|routeviews|routeviews
+# source:topology|BGP|20140602|routeviews|routeviews
+# source:topology|BGP|20140603|routeviews|routeviews
+# source:topology|BGP|20140604|routeviews|routeviews
+# source:topology|BGP|20140605|routeviews|routeviews
+# source:topology|BGP|20140601|routeviews|routeviews2
+# source:topology|BGP|20140602|routeviews|routeviews2
+# source:topology|BGP|20140603|routeviews|routeviews2
+# source:topology|BGP|20140604|routeviews|routeviews2
+# source:topology|BGP|20140605|routeviews|routeviews2
+# source:topology|BGP|20140601|routeviews|routeviews3
+# source:topology|BGP|20140602|routeviews|routeviews3
+# source:topology|BGP|20140603|routeviews|routeviews3
+# source:topology|BGP|20140604|routeviews|routeviews3
+# source:topology|BGP|20140605|routeviews|routeviews3
+# source:topology|BGP|20140601|routeviews|saoppaulo
+# source:topology|BGP|20140602|routeviews|saoppaulo
+# source:topology|BGP|20140603|routeviews|saoppaulo
+# source:topology|BGP|20140604|routeviews|saoppaulo
+# source:topology|BGP|20140605|routeviews|saoppaulo
+# source:topology|BGP|20140601|routeviews|sydney
+# source:topology|BGP|20140602|routeviews|sydney
+# source:topology|BGP|20140603|routeviews|sydney
+# source:topology|BGP|20140604|routeviews|sydney
+# source:topology|BGP|20140605|routeviews|sydney
+# source:topology|BGP|20140601|routeviews|telxatl
+# source:topology|BGP|20140602|routeviews|telxatl
+# source:topology|BGP|20140603|routeviews|telxatl
+# source:topology|BGP|20140604|routeviews|telxatl
+# source:topology|BGP|20140605|routeviews|telxatl
+# source:topology|BGP|20140601|routeviews|wide
+# source:topology|BGP|20140602|routeviews|wide
+# source:topology|BGP|20140603|routeviews|wide
+# source:topology|BGP|20140604|routeviews|wide
+# source:topology|BGP|20140605|routeviews|wide
+# c1: 174 209 701 1239 1299 2828 2914 3257 3320 3356 3549 5511 6453 6762 7018 12956
+# c2: 
+# inferred clique: 174 209 701 1239 1299 2828 2914 3257 3320 3356 3549 5511 6453 6762 7018 12956
+# IXP ASes: 1200 4635 5507 6695 7606 8714 9355 9439 9560 9722 9989 11670 17819 18398 21371 24029 24115 24990 35054 40633 42476 43100 47886 48850 55818
+1|11537|0
+1|21616|-1
+2|56590|-1
+3|291|0
+3|293|0
+3|3431|0
+4|24863|-1
+4|45664|-1
+6|9116|0
+6|11081|0
+8|4551|0
+8|45664|-1
+14|6667|0
+14|7795|0
+14|9848|0
+14|12008|0
+14|15570|0
+14|20485|0
+14|35994|0
+21|703|0
+21|9564|0
+21|45867|0
+21|55542|0
+24|293|0
+24|2153|0
+24|7575|0
+24|10343|-1
+24|11537|0
+30|41095|0
+32|3561|0
+32|3671|-1
+32|46750|-1
+34|2|-1
+34|10466|0
+35|5691|-1
+39|1803|0
+42|27|-1
+42|187|-1
+42|251|0
+42|293|0
+42|553|0
+42|701|0
+42|715|-1
+42|852|0
+42|1103|0
+42|1273|0
+42|1280|0
+42|1764|0
+42|1853|0
+42|1916|0
+42|2152|0
+42|2497|0
+42|2516|0
+42|3257|0
+42|3267|0
+42|3292|0
+42|3303|0
+42|3330|0
+42|3333|0
+42|3491|0
+42|3741|0
+42|4181|0
+42|4589|0
+42|4608|0
+42|4637|0
+42|4739|0
+42|4777|0
+42|4826|0
+42|4844|0
+42|5413|0
+42|5580|0
