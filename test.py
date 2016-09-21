@@ -1,15 +1,21 @@
 __author__ = 'secastro'
 
 
-from as_relationship import AsRelationshipService
+import as_relationship.parser
+import as_relationship.fetcher
 
-s = AsRelationshipService(['test-data.txt'])
-print s.find_rel(42, 5413)
-print s.find_rel(5413, 42)
-print s.find_rel(42, 715)
-print s.find_rel(715, 42)
-print s.find_rel(4771, 4648)
+s = as_relationship.parser.AsRelationship(rel_file='test-data.txt')
+print s.rel_char(42, 5413)
+print s.rel_char(5413, 42)
+print s.rel_char(42, 715)
+print s.rel_char(715, 42)
+print s.rel_char(4771, 4648)
 
-print s.rel_char2class(s.find_rel(35, 5691))
-print s.rel_char2class(s.find_rel(5691, 35))
-print s.rel_char2class(s.find_rel(4771, 4648))
+print "Test file Clique"
+print s.tier1_asn()
+
+new_file = as_relationship.fetcher.get_as_relationship_file(datadir='data')
+s2 = as_relationship.parser.AsRelationship(rel_file=new_file)
+print "New File Clique"
+print s2.tier1_asn()
+
